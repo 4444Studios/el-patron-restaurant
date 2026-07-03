@@ -3,6 +3,6 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://agutie22.github.io',
+  site: 'https://4444studios.github.io',
   base: '/el-patron-restaurant',
 });

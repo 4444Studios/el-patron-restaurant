@@ -2,6 +2,11 @@
   "name": "el-patron-restaurant",
   "type": "module",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4444Studios/el-patron-restaurant.git"
+  },
+  "homepage": "https://4444studios.github.io/el-patron-restaurant/",
   "engines": {
     "node": ">=22.12.0"
   },
